@@ -69,3 +69,5 @@ Using your knowledge of R, design a statistical study to compare performance of 
 ## Hypothesis: Null and Alternative
 - Null Hypothesis (Ho): The current MechaCar sellig price is based on the saftey performance against other manufactors.
 - Alternative Hypothesis (Ha): TThe current MechaCar sellig price is NOT based on the saftey performance against other manufactors.
+
+To determine the factors with the highest correlation/predictability with the listing selling price (dependent variable). A random sample of n > 50 for MechaCar and their competitor would need to be collected, and calculating the data through RStudio.
