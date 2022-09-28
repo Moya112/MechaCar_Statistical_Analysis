@@ -60,3 +60,12 @@ The sample mean is 1496.14, and the p-Value is 0.04, which is lower than the sta
 # Deliverable 4
 ## Study Design: MechaCar vs Competition
 
+Using your knowledge of R, design a statistical study to compare performance of the MechaCar vehicles against performance of vehicles from other manufacturers.
+ - MPG (Gasoline Efficiency)
+ - Resale Value
+ - Safety Features
+ - Current Selling Price 
+
+## Hypothesis: Null and Alternative
+- Null Hypothesis (Ho): The current MechaCar sellig price is based on the saftey performance against other manufactors.
+- Alternative Hypothesis (Ha): TThe current MechaCar sellig price is NOT based on the saftey performance against other manufactors.
